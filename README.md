@@ -1,3 +1,3 @@
 # fundametals
-fundametal
+fundametal/
 My frist repository
